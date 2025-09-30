@@ -1,6 +1,6 @@
 # 🚀 Creating a Personalized Google Website Portfolio
 
-[![Video Tutorial]([https://youtu.be/fkePuj_posk](https://youtu.be/fkePuj_posk))
+[![Video Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/fkePuj_posk)
 
 *A step-by-step guide to building your professional portfolio for FREE using Google Sites*
 
